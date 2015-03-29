@@ -1,0 +1,1 @@
+This is a work in progress. Please test astrond and panda3d-1.9.0. A full tutorial will be provided soon, assuming that Astron and Panda3d work properly.
